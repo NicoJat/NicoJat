@@ -33,6 +33,7 @@ A fully functional 2D/3D frame analysis algorithm built from scratch using Pytho
 *Structural Motor*
 A structural engine implements the matrix stiffness method to compute displacements and internal forces for 2D and 3D frames.
 It solves the eigenvalue problem for dynamic properties. The algorithm then executes a modal spectral analysis using standard design spectra and SRSS/ABS superposition to evaluate peak seismic demands.
+
 ---
 
 ### 🎓 Teaching & Outreach
