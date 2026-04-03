@@ -21,15 +21,11 @@ I am a Civil Engineer (PUCE) with field experience as a site supervisor, special
 
 ### 📂 Featured Research & Projects
 
-#### 1. [ML-AISC-Steel-Connections](Enlace-a-tu-futuro-repo-1)
-*Research Project*
-Implementation of Machine Learning models to optimize and predict the behavior of prequalified steel connections according to AISC provisions. 
-
-#### 2. [Matrix-Analysis-OOP](https://github.com/NicoJat/2D-3D-Structural-Analysis-Modal-Engine-OOP-.git)
+#### 1. [Matrix-Analysis-OOP](https://github.com/NicoJat/2D-3D-Structural-Analysis-Modal-Engine-OOP-.git)
 *Structural Motor*
 A fully functional 2D/3D frame analysis algorithm built from scratch using Python and Object-Oriented Programming. Features include automated stiffness matrix assembly, node-element class architecture, and graphical output.
 
-#### 3. [Modal Response Spectrum Analysis-OOP](https://github.com/NicoJat/Portico-2D-3D-Analisis-Modal-Espectral.git)
+#### 2. [Modal Response Spectrum Analysis-OOP](https://github.com/NicoJat/Portico-2D-3D-Analisis-Modal-Espectral.git)
 *Structural Motor*
 A structural engine implements the matrix stiffness method to compute displacements and internal forces for 2D and 3D frames.
 It solves the eigenvalue problem for dynamic properties. The algorithm then executes a modal spectral analysis using standard design spectra and SRSS/ABS superposition to evaluate peak seismic demands.
